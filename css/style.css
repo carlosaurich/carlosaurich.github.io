@@ -1,7 +1,7 @@
 html, body {margin: 0; padding: 0;}
 
 body {
-  background: #000;
+  background: #595959;
   position: relative;
 }
 
@@ -17,11 +17,11 @@ body {
 }
 
 a:hover, a:visited:hover {
-  color: #7ac043;
+  color: #0000FF;
 }
 
 a:visited {
-  color: #f58428;
+  color: black;
 }
 
 .outer {
@@ -118,7 +118,7 @@ a:visited {
 }
 
 .square-one .inner {
-  background: #f58428;
+  background: #D6280B;
 }
 
 .square-two .inner {
@@ -130,7 +130,7 @@ a:visited {
 }
 
 .details {
-  color: white;
+  color: black;
   font-family: 'Ubuntu Mono', monospace;
   /* border: 1px solid red; */
 }
